@@ -1,8 +1,5 @@
 # UTS-Graf-Sains-Data-najmu-026
 Tugas UTS Graf Sains Data
-# UTS Graf Sains Data
-
-## Deskripsi Proyek
 
 Proyek ini merupakan pengerjaan Ujian Tengah Semester (UTS) mata kuliah Graf Sains Data menggunakan dataset RetailRocket. Analisis dilakukan untuk mempelajari hubungan antara pengguna dan barang melalui graf, membentuk Vector Space Model (VSM), menghitung kemiripan antarbarang, serta membuat rekomendasi menggunakan metode K-Nearest Neighbors (KNN).
 
